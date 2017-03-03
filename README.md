@@ -1,4 +1,4 @@
-A simple c++ class that implements an adaptive normalized integrator in 3d over a cube for functions that are complex. For function purely real, more efficient to save a slightly modified version where one changes "dcomplex" by "double", but everything else stay the same. 
+A simple C++ class that implements an adaptive normalized integrator in 3d over a cube for functions that are complex. For functions purely real, the more efficient approach is to save a slightly modified version where one changes "dcomplex" by "double", but everything else stay the same. 
 
 More precisely it tries to integrate directly
 
